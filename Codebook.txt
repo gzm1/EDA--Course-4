@@ -1,0 +1,9 @@
+Codebook:
+
+This is a dataset containing readings from 30 subjects performing activities of daily living
+while carrying a waist-mounted smartphone with embedded inertial sensors.
+
+The dataset contains the mean and standard deviations for these measurements.
+
+Data manipulation from the initial dataset is minimal. The tidy table contains means of 
+standard deviations and means.
